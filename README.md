@@ -10,7 +10,7 @@ The planned changes to the venue identification and selection process are:
 
 * Require IETF participants who want to recommend a venue to fill out a form explaining why they think this city is suitable and providing some basic details based on their first-hand knowledge.  Assessing cities/venues is a very time consuming process.  Utilising local knowledge in this way ensures that we get high quality input from the start and minimises the time we spend assessing unsuitable cities/venues.
 
-The new process is below and we welcome any feedback.
+The new process is below and we welcome any feedback before Sunday 15 November.
 
 ----
 # IETF MEETING VENUE IDENTIFICATION AND SELECTION PROCESS
