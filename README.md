@@ -75,10 +75,10 @@ Once the contracts are signed and we are committed to the venue, we notify the c
 ----
 
 
-[1]  https://tools.ietf.org/html/rfc8718
-[2]  https://github.com/ietf-llc/venue-identification-and-selection-process-consultation/blob/main/IETF_Venue_Recommendation_Form_(IETF_Participant).pdf
-[3]  https://github.com/ietf-llc/venue-identification-and-selection-process-consultation/blob/main/IETF_Venue_Recommendation_Form_(Venues_and_Agents).pdf
-[4]  https://tools.ietf.org/html/rfc8719#section-4
-[5]  https://trello.com/b/whq8I098/venue-selection-input
-[6]  https://www.ietf.org/how/meetings/planning/meeting-location-input/
-[7]  https://www.ietf.org/how/meetings/upcoming/
+[1]  https://tools.ietf.org/html/rfc8718  
+[2]  https://github.com/ietf-llc/venue-identification-and-selection-process-consultation/blob/main/IETF_Venue_Recommendation_Form_(IETF_Participant).pdf  
+[3]  https://github.com/ietf-llc/venue-identification-and-selection-process-consultation/blob/main/IETF_Venue_Recommendation_Form_(Venues_and_Agents).pdf  
+[4]  https://tools.ietf.org/html/rfc8719#section-4  
+[5]  https://trello.com/b/whq8I098/venue-selection-input  
+[6]  https://www.ietf.org/how/meetings/planning/meeting-location-input/  
+[7]  https://www.ietf.org/how/meetings/upcoming/  
